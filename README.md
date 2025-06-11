@@ -22,6 +22,7 @@ Right now, I'm particularly into:
 - 📊 **Observability** – Grafana, Prometheus, and custom dashboards
 - 🌐 **Self-hosting** – From NGINX to Portainer and beyond
 
+<!--
 ---
 
 ### 🌱 Inspired By
@@ -31,7 +32,7 @@ The open source community drives so much of my learning. Some of my favorite Git
 - [@timothystewart6](https://github.com/timothystewart6)
 - [@ChristianLempa](https://github.com/ChristianLempa)
 - [@ThePrimeagen](https://github.com/ThePrimeagen)
-
+-->
 ---
 
 ### ✍️ Coming Soon
