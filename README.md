@@ -6,7 +6,7 @@ I'm a **Cloud Operations & DevOps Engineer** with a strong focus on automation, 
 ---
 
 ### 🔧 What I Do
-- 🛠️ Build and scale CI/CD pipelines for microservices
+- 🛠️ Build and scale CI/CD pipelines
 - 🌩️ Automate cloud infrastructure and configuration
 - 🔍 Enhance observability and incident response
 <!--
