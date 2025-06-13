@@ -9,6 +9,7 @@ I'm a **Cloud Operations & DevOps Engineer** with a strong focus on automation, 
 - 🛠️ Build and scale CI/CD pipelines for microservices
 - 🌩️ Automate cloud infrastructure and configuration
 - 🔍 Enhance observability and incident response
+<!--
 - 🧪 Tinker in my homelab with open source tools
 
 ---
@@ -22,7 +23,6 @@ Right now, I'm particularly into:
 - 📊 **Observability** – Grafana, Prometheus, and custom dashboards
 - 🌐 **Self-hosting** – From NGINX to Portainer and beyond
 
-<!--
 ---
 
 ### 🌱 Inspired By
@@ -32,10 +32,12 @@ The open source community drives so much of my learning. Some of my favorite Git
 - [@timothystewart6](https://github.com/timothystewart6)
 - [@ChristianLempa](https://github.com/ChristianLempa)
 - [@ThePrimeagen](https://github.com/ThePrimeagen)
--->
+
 ---
 
 ### ✍️ Coming Soon
 I’m planning to document more of my journey — both in homelab experimentation and DevOps insights — over at [frankpejril.com](https://frankpejril.com). Expect more public repos soon with configurations, experiments, and tools I use every day.
 
 Thanks for stopping by!
+
+-->
